@@ -7,7 +7,7 @@ The game is inspired by the popular mainly-app based game [Among Us](https://www
 * *Niranjana*-Core, Reach, Special Features, Graphics 
 * *Radhika*- Core, Reach, Special Features, ThingSpeak IoT
 * *Alyssa*- A Core Function, Reach, Special Features Sounds
-* *Kledi* - Reach, Animation
+* *Kledi* - Reach, Animation (To be implemented)
 
 
 
