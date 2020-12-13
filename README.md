@@ -14,7 +14,7 @@ The game is inspired by the popular mainly-app based game [Among Us](https://www
 
 
 ### *Contributors*
-* *Niranjana*-Core, Reach, Special Features, Graphic Designer
+* *Niranjana*-Core, Reach, Special Features, Graphics Designer
 * *Radhika*- Core, Reach, Special Features, ThingSpeak IoT, Team Lead
 * *Alyssa*- A Core Function, Reach, Special Features, Sounds
 * *Kledi* - Reach, Animation (to be implemented)
