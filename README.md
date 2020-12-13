@@ -23,9 +23,10 @@ BEWARE the imposter is there to sabotage your tasks and make it harder for
 - Each player is given 5 cards in the beginning of the game
 - Each player may pick up as many cards as they want per turn until the hand is full 
 - A player’s hand is full when they have 8 cards 
-- After picking up cards each player must put down one card per turn 
+- After picking up cards each player must put down one card per turn
+- Once a player plays the card it is no longer their turn
 - You may shuffle the deck at anytime 
-- The aim is to collectively finish the tasks 
+- The aim is for you and the other player to collectively finish the tasks before time runs out
 - A task is completed when the same card is played twice 
 - In the 2 player mode there is a time limit of 7 minutes
 
