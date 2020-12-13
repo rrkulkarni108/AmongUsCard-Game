@@ -5,8 +5,8 @@ The game is inspired by the popular mainly-app based game [Among Us](https://www
 - **current version of .mlapp file: GUIComponentsWITHSOUNDV2.mlapp** 
 
 ## How to get this on your computer
-- download from GitHub, click the green button named "Code" and click on "Download Zipped File" from the dropdown
-- the zipped file contains all image files and sound files, make sure that these are in the same path as the code file
+- download from GitHub: click the green button named "Code", then click on "Download Zipped File" from the dropdown
+- the zipped file contains all image files and sound files, make sure that you have saved these in the same path as the code file
 - open in App Designer in MATLAB
 - have fun playing!
 
