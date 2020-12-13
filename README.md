@@ -27,8 +27,8 @@ BEWARE the imposter is there to sabotage your tasks and make it harder for
 - Once a player plays the card it is no longer their turn
 - You may shuffle the deck at anytime 
 - The aim is for you and the other player to collectively finish the tasks before time runs out
-- A task is completed when the same card is played twice 
-- In the 2 player mode there is a time limit of 7 minutes
+- A task is completed when the same card is played twice, and so the task bar updates
+- There is a time limit of 7 minutes, when time runs out the game is over 
 
 ### *Contributors*
 * *Niranjana*-Core, Reach, Special Features, Graphics Designer
