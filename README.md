@@ -4,7 +4,14 @@ The game is inspired by the popular mainly-app based game [Among Us](https://www
 - We have player information sent through [ThingSpeak IoT](https://thingspeak.com/).
 - **current version of .mlapp file: GUIComponentsWITHSOUNDV2.mlapp** 
 
-## Rules 
+## How to get this on your computer
+- download from GitHub the zipped file (green button)
+- the zipped file contains all image files and sound files, make sure that these are in the same path as the code file
+- open in App Designer in MATLAB
+- have fun playing!
+
+## Rules : How to Play
+
 
 ### *Contributors*
 * *Niranjana*-Core, Reach, Special Features, Graphics
