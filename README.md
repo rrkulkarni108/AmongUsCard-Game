@@ -4,7 +4,9 @@ The game is inspired by the popular mainly-app based game [Among Us](https://www
 - We have player information sent through [ThingSpeak IoT](https://thingspeak.com/).
 - **current version of .mlapp file: GUIComponentsWITHSOUNDV2.mlapp** 
 
-## *Contributors*
+## Rules 
+
+### *Contributors*
 * *Niranjana*-Core, Reach, Special Features, Graphics
 * *Radhika*- Core, Reach, Special Features, ThingSpeak IoT, Team Lead
 * *Alyssa*- A Core Function, Reach, Special Features Sounds
